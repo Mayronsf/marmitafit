@@ -7,10 +7,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependency directories
 node_modules
+
+# Production builds
 dist
 dist-ssr
+.out
+.next
+.build
+.cache
+
+# Bolt configuration
+.bolt/
+
+# Local environment files
 *.local
+.env
+.env.*.local
 
 # Editor directories and files
 .vscode/*
@@ -22,4 +36,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env
+
+# Others
+*.tgz
+*.gz
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
