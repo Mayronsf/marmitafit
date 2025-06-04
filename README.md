@@ -6,7 +6,7 @@
 
 > 🥗 Aplicação web voltada para o planejamento e visualização de cardápios saudáveis e marmitas fitness. Ideal para quem busca praticidade e alimentação equilibrada.
 
-🔗 **Acesse o projeto:** [em breve no Vercel](https://vercel.com)
+🔗 **Acesse o projeto:** [https://marmitafit-seven.vercel.app/](https://marmitafit-seven.vercel.app/)
 
 ---
 
@@ -30,7 +30,7 @@
 
 🍛 **Home** – Apresentação da proposta da marmitaria, slogan e chamada para ação.  
 📆 **Cardápio Semanal** – Lista de marmitas por dia, com descrição e opções.  
-🛒 **Pré-pedido (futuro)** – Planejamento de refeições com base no cardápio.  
+🛒 **Assinatura de Planos** – O cliente pode optar por aderir a planos estilizados.  
 
 ---
 
@@ -61,3 +61,91 @@
 ├── .env                    # Variáveis de ambiente (não subir!)
 ├── package.json            # Dependências do projeto
 └── README.md               # Documentação do projeto
+```
+
+---
+
+## 📦 Instalação
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/Mayronsf/marmitafit.git
+cd marmitafit
+```
+
+2. **Instale as dependências:**
+
+```bash
+npm install
+```
+
+3. **Configure o arquivo `.env` (se necessário):**
+
+```env
+# Exemplo:
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
+
+4. **Inicie o servidor de desenvolvimento:**
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Deploy
+
+O deploy é feito via Vercel (com integração GitHub):
+
+- Suba suas alterações no GitHub.
+- A Vercel detectará e realizará o deploy automático.
+- Configure variáveis de ambiente diretamente no painel da Vercel.
+
+---
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas!
+
+```bash
+# Faça o fork
+git clone https://github.com/Mayronsf/marmitafit.git
+
+# Crie uma nova branch
+git checkout -b feature/NovaFeature
+
+# Commit
+git commit -m 'feat: Adiciona nova funcionalidade'
+
+# Push
+git push origin feature/NovaFeature
+
+# Abra um Pull Request 🚀
+```
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+<div align="center">
+
+| 💻 Nome | 🔗 GitHub | 💼 LinkedIn |
+| :---: | :---: | :---: |
+| **Mayron Janiel** | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayronsf) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayron-janiel-16493926b/) |
+| **João Roberto** | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-rl) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-roberto-60b76b268/) |
+
+</div>
+
+---
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+⭐️ **Se você gostou do projeto, deixe uma estrela no repositório!**  
+💬 Para dúvidas ou sugestões, entre em contato pelos nossos perfis do LinkedIn.
