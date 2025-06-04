@@ -127,7 +127,7 @@ const AboutPage: React.FC = () => {
             <div className="text-center">
               <div className="rounded-full overflow-hidden w-40 h-40 mx-auto mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/5329056/pexels-photo-5329056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://img.freepik.com/fotos-gratis/retrato-de-um-medico-homem-feliz-vestido-de-uniforme_171337-119.jpg" 
                   alt="Nutricionista Pedro" 
                   className="w-full h-full object-cover"
                 />
@@ -142,7 +142,7 @@ const AboutPage: React.FC = () => {
             <div className="text-center">
               <div className="rounded-full overflow-hidden w-40 h-40 mx-auto mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/3765114/pexels-photo-3765114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://ba.agenciasebrae.com.br/wp-content/uploads/sites/6/2024/01/iStock-1459178010_p12298_cover_image_resized.jpg" 
                   alt="Camila Gestora" 
                   className="w-full h-full object-cover"
                 />

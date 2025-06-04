@@ -9,7 +9,7 @@ const products: Product[] = [
     price: 32.90,
     images: [
       'https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://feed.continente.pt/media/a0glr20i/salma-o-grelhado-com-molho-teriyaki-0079.jpg'
     ],
     category: 'protein',
     tags: ['bestseller', 'high-protein'],
@@ -54,8 +54,8 @@ const products: Product[] = [
     shortDescription: 'Frango com ervas e ratatouille de legumes',
     price: 26.90,
     images: [
-      'https://images.pexels.com/photos/6941010/pexels-photo-6941010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/6941080/pexels-photo-6941080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://www.mundoboaforma.com.br/wp-content/uploads/2021/05/frango-com-legumes.jpg',
+      'https://fricassedefrango.com.br/wp-content/uploads/2024/12/receita-de-frango-low-carb.jpg'
     ],
     category: 'low-carb',
     tags: ['keto-friendly', 'gluten-free'],
@@ -78,7 +78,7 @@ const products: Product[] = [
     price: 24.90,
     images: [
       'https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://litoralmania.com.br/wp-content/uploads/2024/09/shutterstock_1310133010-1-1024x683-1.jpg'
     ],
     category: 'detox',
     tags: ['vegan', 'gluten-free', 'sugar-free'],
@@ -100,8 +100,8 @@ const products: Product[] = [
     shortDescription: 'Strogonoff leve com iogurte e arroz integral',
     price: 25.90,
     images: [
-      'https://images.pexels.com/photos/5718071/pexels-photo-5718071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/5718025/pexels-photo-5718025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://www.receiteria.com.br/wp-content/uploads/strogonoff-de-frango-fit.jpg',
+      'https://cdn.oceanserver.com.br/lojas/naturallis/uploads_produto/naturallis-33-60f99cedc4653.jpg'
     ],
     category: 'protein',
     tags: ['low-sodium', 'sugar-free'],
@@ -146,8 +146,8 @@ const products: Product[] = [
     shortDescription: 'Omelete com peito de peru, queijo cottage e vegetais',
     price: 22.90,
     images: [
-      'https://images.pexels.com/photos/4109996/pexels-photo-4109996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/2403391/pexels-photo-2403391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://img.cybercook.com.br/receitas/105/omelete-classica-1.jpeg',
+      'https://receitasmondial.com.br/wp-content/uploads/2024/09/omelete-cremoso-de-palmito-mondial.jpg'
     ],
     category: 'low-carb',
     tags: ['high-protein', 'keto-friendly', 'gluten-free'],
@@ -169,8 +169,8 @@ const products: Product[] = [
     shortDescription: 'Risoto de quinoa com legumes e queijo parmesão',
     price: 26.90,
     images: [
-      'https://images.pexels.com/photos/4518843/pexels-photo-4518843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      'https://images.pexels.com/photos/6419731/pexels-photo-6419731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      'https://canaldareceita.com.br/wp-content/uploads/2025/03/Risoto-de-Quinoa-com-Legumes-Assados-1200x900.jpg',
+      'https://www.oitedi.com.br/_next/image?url=https%3A%2F%2Ftedi-production.s3.amazonaws.com%2Fcooking_recipes%2Ffood_description%2F469d0c1e83c47ee51f22539ff0e74acabf3e2a80.png&w=1080&q=70'
     ],
     category: 'vegetarian',
     tags: ['high-protein', 'gluten-free'],

@@ -4,14 +4,14 @@ const testimonials: Testimonial[] = [
   {
     id: '1',
     name: 'Mariana Silva',
-    image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://st3.depositphotos.com/5103545/12627/i/450/depositphotos_126277948-stock-photo-woman-with-cute-smile-make.jpg',
     text: 'As marmitas da Marmita Fit mudaram minha rotina! Consigo manter minha dieta mesmo com a correria do dia a dia. Tudo muito saboroso e nutritivo.',
     rating: 5
   },
   {
     id: '2',
     name: 'Carlos Mendes',
-    image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://s.rfi.fr/media/display/28733620-c5cb-11ee-bac9-005056a90284/w:1280/p:1x1/2317_mos-4069%20%281%29.jpg',
     text: 'Como atleta, preciso de refeições balanceadas e ricas em proteínas. O plano semanal tem sido perfeito para manter minha performance nos treinos.',
     rating: 5
   },
@@ -25,7 +25,7 @@ const testimonials: Testimonial[] = [
   {
     id: '4',
     name: 'Paulo Henrique',
-    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://www.smartfit.com.br/news/wp-content/uploads/2024/07/em-quanto-tempo-meus-musculos-va%CC%83o-aparecer-destaque-800x533.jpg',
     text: 'O plano mensal é excelente custo-benefício! As marmitas são preparadas com ingredientes frescos e de qualidade. Recomendo a todos!',
     rating: 5
   }

@@ -33,7 +33,7 @@ const HeroSection: React.FC = () => {
               size="lg"
               icon={<ArrowRight size={20} />}
               iconPosition="right"
-              className="bg-white text-green-600 hover:bg-gray-100"
+              className="bg-white/30 text-green-600 hover:bg-gray-100"
             >
               Montar Meu Plano
             </Button>
